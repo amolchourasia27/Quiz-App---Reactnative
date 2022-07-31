@@ -27,7 +27,7 @@
  align="center" class="div-3">
 <span
 >
-<image class="img-style" src="MDfileImages\img1.jpg"width = 500 height=900
+<image class="img-style" src="https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg"width = 500 height=900
 >
 </span>
 <span
@@ -53,14 +53,10 @@
 >
 </div>
 
-<style>
-    .div-1 {
-        background-color: #EBEBEB;
-    }
+<style
+>
 
-    .div-2 {
-     background-color: #ABBAEA;
-    }
+
 
     .div-3 {
      background-color: #ABBAEA ;
