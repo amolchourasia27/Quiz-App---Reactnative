@@ -24,11 +24,14 @@
 #### Screenshots
 
 ![HomePage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg)
+---
 ![Questions](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img2.jpg)
+---
 ![ResultsPage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img3.jpg)
+---
 ![ResultsPage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img4.jpg)
 
-##### Css and Html styling in markdown is not shown in  GitHub
+##### Css and Html styling for markdown if not presenting in GitHub
 
 ```{
 
