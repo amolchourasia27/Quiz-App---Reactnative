@@ -27,7 +27,8 @@
  align="center" class="div-3">
 <span
 >
-<image class="img-style" src="https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg"width = 500 height=900
+<!-- <image class="img-style" src="https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg"width = 500 height=900 -->
+![firstImage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg)
 >
 </span>
 <span
