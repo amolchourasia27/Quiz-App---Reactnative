@@ -23,53 +23,15 @@
 
 #### Screenshots
 
-![firstImage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg)
+![HomePage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg)
+![Questions](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img2.jpg)
+![ResultsPage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img3.jpg)
+![ResultsPage](https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img4.jpg)
 
-<div
- align="center" class="div-3">
-<span
->
-<!-- <image class="img-style" src="https://raw.githubusercontent.com/amolchourasia27/Quiz-App---Reactnative/main/MDfileImages/img1.jpg"width = 500 height=900 -->
->
-</span>
-<span
->
-<image class="img-style" src="MDfileImages\img2.jpg"width = 500 height=900
->
-</span
->
-</div>
+##### Css and Html styling in markdown is not shown in  GitHub
 
-<div
- align="center" class="div-3">
-<span
->
-<image class="img-style" src="MDfileImages\img3.jpg"width = 500 height=900
->
-</span>
-<span
->
-<image class="img-style" src="MDfileImages\img4.jpg"width = 500 height=900
->
-</span
->
-</div>
+```{
 
-<style
->
-
-
-
-    .div-3 {
-     background-color: #ABBAEA ;
-     border-radius: 50px ;
-     margin:40px;
-     padding:50px
-    }
-    .img-style{
-        border-radius:50px;
-        margin-left:10px;
-        margin-right:10px;
-        padding:10%,15%,10%,15%;
-    }
-</style>
+<div align="center" class="div-3"><span>></span><span><image class="img-style" src="MDfileImages\img2.jpg"width=500 height=900></span></div><div align="center" class="div-3"><span><image class="img-style" src="MDfileImages\img3.jpg"width=500 height=900></span><span><image class="img-style" src="MDfileImages\img4.jpg"width=500 height=900></span></div><style>.div-3{background-color: #ABBAEA ; border-radius: 50px ; margin:40px; padding:50px}.img-style{border-radius:50px; margin-left:10px; margin-right:10px; padding:10%,15%,10%,15%;}</style>}
+}
+```
